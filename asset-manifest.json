@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minimalistportfolio/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/minimalistportfolio/static/js/main.9ab94b43.chunk.js",
+    "main.js.map": "/minimalistportfolio/static/js/main.9ab94b43.chunk.js.map",
+    "runtime-main.js": "/minimalistportfolio/static/js/runtime-main.154fc00e.js",
+    "runtime-main.js.map": "/minimalistportfolio/static/js/runtime-main.154fc00e.js.map",
+    "static/css/2.11829350.chunk.css": "/minimalistportfolio/static/css/2.11829350.chunk.css",
+    "static/js/2.f1836ba8.chunk.js": "/minimalistportfolio/static/js/2.f1836ba8.chunk.js",
+    "static/js/2.f1836ba8.chunk.js.map": "/minimalistportfolio/static/js/2.f1836ba8.chunk.js.map",
+    "index.html": "/minimalistportfolio/index.html",
+    "precache-manifest.81165c21b249eda47160cc7cb6b6772c.js": "/minimalistportfolio/precache-manifest.81165c21b249eda47160cc7cb6b6772c.js",
+    "service-worker.js": "/minimalistportfolio/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/minimalistportfolio/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/minimalistportfolio/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f1836ba8.chunk.js.LICENSE.txt": "/minimalistportfolio/static/js/2.f1836ba8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154fc00e.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.f1836ba8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9ab94b43.chunk.js"
+  ]
+}
